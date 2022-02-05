@@ -112,6 +112,7 @@ form input {
   .todo input {
     width: 100%;
   }
+}
 input:focus,
 button:focus {
   outline: none;
