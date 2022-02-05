@@ -112,6 +112,9 @@ form input {
   .todo_container {
     width: 100%;
   }
+  .todo input {
+    width: 86%;
+  }
 }
 input:focus,
 button:focus {
