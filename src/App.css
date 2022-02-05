@@ -70,7 +70,7 @@ form input {
 }
 .todo input {
   cursor: pointer;
-  width: 50%;
+  width: 60%;
   border: none;
   outline: none;
   cursor: pointer;
@@ -109,7 +109,9 @@ form input {
   .task {
     margin-right: 0px;
   }
-}
+  .todo input {
+    width: 100%;
+  }
 input:focus,
 button:focus {
   outline: none;
