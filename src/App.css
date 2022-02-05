@@ -109,7 +109,7 @@ form input {
   .task {
     margin-right: 0px;
   }
-  .todo input {
+  .todo_container {
     width: 100%;
   }
 }
